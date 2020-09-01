@@ -23,7 +23,7 @@ email: hello@giancarlohincapie.com
 description: >- # this means to ignore newlines until "baseurl:"
   Award-winning Colombia & Latin America powerhouse – consultant for select brands, sought-after judge for worldwide competitions, and Elite Bartender of the International Bartenders Association.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://giancarlony.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.giancarlohincapie.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
